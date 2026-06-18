@@ -30,7 +30,7 @@ Tools to assist with writing, vocalization, and typing in Arabic.
 ## 📄 Career & Productivity
 Platforms to help Arab professionals build resumes, portfolios, and manage workflows.
 
-* [Cviya](https://cviya.com/ar) - A free, AI-powered professional resume builder with full customizable layouts and native Arabic/RTL support. / *منصة مجانية بالذكاء الاصطناعي لإنشاء السير الذاتية بدعم كامل للغة العربية.*
+* [Cviya](https://cviya.com/ar) - A free, fully customizable professional resume builder featuring native Arabic and RTL support. / *منصة مجانية لإنشاء السير الذاتية بتصميمات قابلة للتخصيص ودعم كامل للغة العربية.*
 * [Hsoub Notes](https://notes.hsoub.com/) - A simple, secure, and fast note-taking app supporting Arabic. / *تطبيق عربي لكتابة الملاحظات.*
 
 ## 💻 Development & Open Source
