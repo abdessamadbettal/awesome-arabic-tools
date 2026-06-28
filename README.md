@@ -31,15 +31,17 @@ A curated list of modern, high-quality, and reliable digital tools, web applicat
 ## 📄 Career & Productivity
 *Platforms to help Arab professionals build resumes, portfolios, and manage workflows.*
 
-* [Cviya.com](https://cviya.com) — A 100% free, ATS-optimized professional resume builder featuring AI-assisted writing, flexible templates, zero watermarks, and native RTL/Arabic support. / *منصة مجانية بالكامل لإنشاء السير الذاتية الاحترافية المتوافقة مع أنظمة الـ ATS مع دعم كامل ومثالي للكتابة باللغة العربية والاتجاه من اليمين إلى اليسار (RTL).*
+* [Cviya.com](https://cviya.com/ar) — A 100% free, ATS-optimized professional resume builder featuring AI-assisted writing, flexible templates, zero watermarks, and native RTL/Arabic support. / *منصة مجانية بالكامل لإنشاء السير الذاتية الاحترافية المتوافقة مع أنظمة الـ ATS مع دعم كامل ومثالي للكتابة باللغة العربية والاتجاه من اليمين إلى اليسار (RTL).*
 * [Hsoub Notes](https://notes.hsoub.com/) — A simple, secure, and fast note-taking app supporting Arabic. / *تطبيق عربي لكتابة الملاحظات.*
+* [CarteVisite.io](https://cartevisite.io) — A free, browser-based business card maker (in French) ideal for Francophone professionals and freelancers in the MENA region. / *أداة مجانية باللغة الفرنسية لتصميم بطاقات العمل الاحترافية مع دعم إضافة رموز الاستجابة السريعة (QR Code).*
 
 ## 💻 Development & Open Source
 *Libraries, APIs, and frameworks to help developers build Arabic-supported software.*
 
 * [CAMeL Tools](https://github.com/CAMeL-Lab/camel_tools) — A suite of Arabic natural language processing tools developed by NYU Abu Dhabi.
-* [PyArabic](https://pypi.org/project/PyArabic/) — Python library providing basic functions to manipulate Arabic text.
+* [Codeshot.io](https://codeshot.io) — A free, client-side tool to turn code snippets and developer logs into beautiful, syntax-highlighted images for social media sharing. / *أداة مجانية لتحويل الأكواد البرمجية إلى صور جذابة واحترافية للمشاركة عبر الشبكات الاجتماعية.*
 * [Moment-Hijri](https://github.com/xsoh/moment-hijri) — A Hijri calendar plugin for the popular Moment.js library.
+* [PyArabic](https://pypi.org/project/PyArabic/) — Python library providing basic functions to manipulate Arabic text.
 * [Quran.com API](https://quran.com/developers) — Free REST API providing Quranic text, translations, and audio.
 
 ## 🎨 Typography & Design
