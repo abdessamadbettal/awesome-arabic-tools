@@ -11,12 +11,16 @@ A curated list of modern, high-quality, and reliable digital tools, web applicat
 ---
 
 ## 📑 Table of Contents
-- [⌨️ Writing & Transliteration](#️-writing--transliteration)
-- [📄 Career & Productivity](#-career--productivity)
-- [💻 Development & Open Source](#-development--open-source)
-- [🎨 Typography & Design](#-typography--design)
-- [🛠️ Utilities & Helpers](#️-utilities--helpers)
-- [🤝 Contributing](#-contributing)
+- [🌟 Awesome Arabic Tools](#-awesome-arabic-tools)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [⌨️ Writing \& Transliteration](#️-writing--transliteration)
+  - [📄 Career \& Productivity](#-career--productivity)
+  - [💻 Development \& Open Source](#-development--open-source)
+  - [🎨 Typography \& Design](#-typography--design)
+  - [🛠️ Utilities \& Helpers](#️-utilities--helpers)
+  - [🔗 See Also](#-see-also)
+  - [🤝 Contributing](#-contributing)
+  - [📜 License](#-license)
 
 ---
 
@@ -24,6 +28,7 @@ A curated list of modern, high-quality, and reliable digital tools, web applicat
 *Tools to assist with writing, vocalization, and typing in Arabic.*
 
 * [Arabizi.io](https://arabizi.io/) — A free, client-side virtual Arabic keyboard featuring a real-time phonetic engine that instantly converts Latin-script (Arabizi) text into Arabic characters with built-in auto-vowels (tashkeel). / *لوحة مفاتيح عربية ذكية ومجانية تتيح الكتابة باللغة العربية عبر الحروف اللاتينية (عربيزي) مع تشكيل تلقائي.*
+* [Arabizi Translation Guide](https://github.com/abdessamadbettal/Arabizi-Translation-Guide) — An open-source reference guide covering the full Arabizi alphabet, regional dialect variations, and transliteration rules for developers and learners. / *دليل مفتوح المصدر يشرح أبجدية العربيزي حسب اللهجات.*
 * [Mishkal](https://tahadz.com/mishkal) — Arabic text vocalization and diacritization tool. / *برنامج لتشكيل النصوص العربية.*
 * [Slugme.io](https://slugme.io) — A 100% client-side, zero-latency URL slug generator that natively flattens Arabic text, strips harakat, and outputs search-engine-friendly clean permalinks. / *أداة مجانية بالكامل لإنشاء الروابط الصديقة لمحركات البحث (SEO URL Slugs) تدعم اللغة العربية وتزيل الحركات تلقائياً في المتصفح.*
 * [Wudooh](https://wudooh.app/) — Browser extension that makes reading Arabic text easier and clearer. / *إضافة للمتصفح لتوضيح وتكبير الخط العربي.*
@@ -59,6 +64,11 @@ A curated list of modern, high-quality, and reliable digital tools, web applicat
 * [Hijri Converter](https://www.ummulqura.org.sa/) — Simple tool to convert Gregorian dates to standard Hijri dates.
 * [QrFast.io](https://qrfast.io) — A zero-tracking, ultra-fast QR code generator. Instantly generate customizable vector QR codes (URLs, location, WhatsApp, or standard vCard profile files) completely client-side. / *مولد رموز استجابة سريعة (QR Code) فائق السرعة ومجاني، يتيح تخصيص الألوان وإضافة الشعارات وتصدير ملفات عالية الجودة دون تتبع أو تسجيل حساب.*
 * [Tafqeet Tool](https://tafqeet.com/) — Convert numbers and currencies into written Arabic text (التفقيط).
+
+---
+
+## 🔗 See Also
+* [Self-Branding for Developers](https://github.com/abdessamadbettal/developer-personal-branding-guide) — Guide to making your technical profile and content visible.
 
 ---
 
