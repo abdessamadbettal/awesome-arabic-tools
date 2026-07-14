@@ -61,7 +61,7 @@ A curated list of modern, high-quality, and reliable digital tools, web applicat
 ## 🛠️ Utilities & Helpers
 *Fast, no-login utilities and everyday tools.*
 
-* [Falah.io](https://falah.io) — A free, open-source Islamic toolkit bundling a Quran explorer, prayer times, Hijri calendar, Qibla finder, and Zakat & inheritance calculators and more. Fully client-side with no ads, accounts, or location tracking. / *مجموعة أدوات إسلامية مجانية ومفتوحة المصدر تضم مصحفاً ومواقيت الصلاة والتقويم الهجري واتجاه القبلة وحاسبات الزكاة والمواريث، تعمل بالكامل في المتصفح دون إعلانات أو تسجيل.*
+* [Falah.io](https://falah.io) — A free, open-source Islamic toolkit bundling a Quran explorer, prayer times, Hijri calendar, Qibla finder, and Zakat & inheritance calculators and Quran Card and more. Fully client-side with no ads, accounts, or location tracking. / *مجموعة أدوات إسلامية مجانية ومفتوحة المصدر تضم مصحفاً ومواقيت الصلاة والتقويم الهجري واتجاه القبلة وحاسبات الزكاة والمواريث، تعمل بالكامل في المتصفح دون إعلانات أو تسجيل.*
 * [Hijri Converter](https://www.ummulqura.org.sa/) — Simple tool to convert Gregorian dates to standard Hijri dates.
 * [QrFast.io](https://qrfast.io) — A zero-tracking, ultra-fast QR code generator. Instantly generate customizable vector QR codes (URLs, location, WhatsApp, or standard vCard profile files) completely client-side. / *مولد رموز استجابة سريعة (QR Code) فائق السرعة ومجاني، يتيح تخصيص الألوان وإضافة الشعارات وتصدير ملفات عالية الجودة دون تتبع أو تسجيل حساب.*
 * [Tafqeet Tool](https://tafqeet.com/) — Convert numbers and currencies into written Arabic text (التفقيط).
