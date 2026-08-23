@@ -27,6 +27,7 @@ A curated list of modern, high-quality, and reliable digital tools, web applicat
 - [Slugme.io](https://slugme.io) - A 100% client-side, zero-latency URL slug generator that natively flattens Arabic text, strips harakat, and outputs search-engine-friendly clean permalinks. / *أداة مجانية بالكامل لإنشاء الروابط الصديقة لمحركات البحث (SEO URL Slugs) تدعم اللغة العربية وتزيل الحركات تلقائياً في المتصفح.*
 - [Wudooh](https://wudooh.app/) - Browser extension that makes reading Arabic text easier and clearer. / *إضافة للمتصفح لتوضيح وتكبير الخط العربي.*
 
+- [3ammiya](https://3ammiya.com) - A searchable Egyptian Arabic dictionary with Franco-Arabic transliteration and 6,300+ community-built definitions. / *قاموس العامية المصرية مع دعم الكتابة بالفرانكو.*
 ## 📄 Career & Productivity
 *Platforms to help Arab professionals build resumes, portfolios, and manage workflows.*
 
