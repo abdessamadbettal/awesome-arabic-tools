@@ -33,6 +33,7 @@ A curated list of modern, high-quality, and reliable digital tools, web applicat
 - [Cviya.com](https://cviya.com/ar) - A 100% free, ATS-optimized professional resume builder featuring AI-assisted writing, flexible templates, zero watermarks, and native RTL/Arabic support. / *منصة مجانية بالكامل لإنشاء السير الذاتية الاحترافية المتوافقة مع أنظمة الـ ATS مع دعم كامل ومثالي للكتابة باللغة العربية والاتجاه من اليمين إلى اليسار (RTL).*
 - [Hsoub Notes](https://notes.hsoub.com/) - A simple, secure, and fast note-taking app supporting Arabic. / *تطبيق عربي لكتابة الملاحظات.*
 - [CarteVisite.io](https://cartevisite.io) - A free, browser-based business card maker (in French) ideal for Francophone professionals and freelancers in the MENA region. / *أداة مجانية باللغة الفرنسية لتصميم بطاقات العمل الاحترافية مع دعم إضافة رموز الاستجابة السريعة (QR Code).*
+- [Remember Me (ذكرني)](https://sarmadiq9090-coder.github.io/Remember-Me/) - Free, open-source reminder and to-do app for Windows whose reminders stay on screen until you act; 12 languages with full Arabic RTL, offline, no account. / *تطبيق مجاني ومفتوح المصدر للتذكيرات والمهام على ويندوز، تبقى تذكيراته على الشاشة حتى تتصرف؛ 12 لغة مع دعم كامل للعربية من اليمين إلى اليسار، يعمل دون إنترنت ودون حساب.*
 
 ## 💻 Development & Open Source
 *Libraries, APIs, and frameworks to help developers build Arabic-supported software.*
