@@ -59,6 +59,7 @@ A curated list of modern, high-quality, and reliable digital tools, web applicat
 - [Hijri Converter](https://www.ummulqura.org.sa/) - Simple tool to convert Gregorian dates to standard Hijri dates.
 - [QrFast.io](https://qrfast.io) - A zero-tracking, ultra-fast QR code generator. Instantly generate customizable vector QR codes (URLs, location, WhatsApp, or standard vCard profile files) completely client-side. / *مولد رموز استجابة سريعة (QR Code) فائق السرعة ومجاني، يتيح تخصيص الألوان وإضافة الشعارات وتصدير ملفات عالية الجودة دون تتبع أو تسجيل حساب.*
 - [Tafqeet Tool](https://tafqeet.com/) - Convert numbers and currencies into written Arabic text (التفقيط).
+- [القرآن حول العالم](https://7awlalaalam.com/quran/) - Free, ad-free Quran website: full Mushaf, tafsir, recitations, translations, prayer times and Qibla. / *مصحف كامل وتفسير وتلاوات وترجمات ومواقيت الصلاة والقبلة، مجاني وبلا إعلانات.*
 
 ## 🔗 See Also
 - [Self-Branding for Developers](https://github.com/abdessamadbettal/developer-personal-branding-guide) - Guide to making your technical profile and content visible.
