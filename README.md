@@ -32,6 +32,7 @@ A curated list of modern, high-quality, and reliable digital tools, web applicat
 
 - [Cviya.com](https://cviya.com/ar) - A 100% free, ATS-optimized professional resume builder featuring AI-assisted writing, flexible templates, zero watermarks, and native RTL/Arabic support. / *منصة مجانية بالكامل لإنشاء السير الذاتية الاحترافية المتوافقة مع أنظمة الـ ATS مع دعم كامل ومثالي للكتابة باللغة العربية والاتجاه من اليمين إلى اليسار (RTL).*
 - [Hsoub Notes](https://notes.hsoub.com/) - A simple, secure, and fast note-taking app supporting Arabic. / *تطبيق عربي لكتابة الملاحظات.*
+- [MD Work](https://play.google.com/store/apps/details?id=app.mdwork.notebook) - A free work-hours notebook for daily and hourly workers: day or hour mode, payments owed, reminders, backup file, and 28 languages including Arabic. / *دفتر ساعات عمل مجاني للعاملين باليومية أو بالساعة: وضع اليوم أو الساعة، حساب المستحقات، تذكيرات، نسخة احتياطية، ودعم 28 لغة بينها العربية.*
 - [CarteVisite.io](https://cartevisite.io) - A free, browser-based business card maker (in French) ideal for Francophone professionals and freelancers in the MENA region. / *أداة مجانية باللغة الفرنسية لتصميم بطاقات العمل الاحترافية مع دعم إضافة رموز الاستجابة السريعة (QR Code).*
 
 ## 💻 Development & Open Source
