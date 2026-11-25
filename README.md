@@ -40,6 +40,7 @@ A curated list of modern, high-quality, and reliable digital tools, web applicat
 - [CAMeL Tools](https://github.com/CAMeL-Lab/camel_tools) - A suite of Arabic natural language processing tools developed by NYU Abu Dhabi.
 - [Codeshot.io](https://codeshot.io) - A free, client-side tool to turn code snippets and developer logs into beautiful, syntax-highlighted images for social media sharing. / *أداة مجانية لتحويل الأكواد البرمجية إلى صور جذابة واحترافية للمشاركة عبر الشبكات الاجتماعية.*
 - [Moment-Hijri](https://github.com/xsoh/moment-hijri) - A Hijri calendar plugin for the popular Moment.js library.
+- [moon-phase-ar](https://github.com/arabskypedia2/moon-phase-ar) - Small JavaScript library that returns the moon phase, age and illumination for any date, with Arabic phase names. / *مكتبة JavaScript صغيرة تحسب طور القمر وعمره ونسبة إضاءته لأي تاريخ، مع أسماء الأطوار بالعربية.*
 - [PyArabic](https://pypi.org/project/PyArabic/) - Python library providing basic functions to manipulate Arabic text.
 - [Quran.com API](https://quran.com/developers) - Free REST API providing Quranic text, translations, and audio.
 
